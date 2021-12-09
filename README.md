@@ -8,3 +8,4 @@
 * [C05 Collisions](https://github.com/Lothainnox/UnityUWM/tree/colliders) : Ćwiczenia 5 - Wykrywanie i obsługa kolizji
 * [C06 3D Model](https://github.com/Lothainnox/UnityUWM/tree/3dmodel) : Ćwiczenia 6 - Model 3D z wykorzystaniem algorytmu AliceVision
 * [C07 - C08 2D Game Elements](https://github.com/Lothainnox/UnityUWM/tree/2d) : Ćwiczenia 7 i 8 - Elementy gry 2D
+* [C09 2D Game Elements - Enemies](https://github.com/Lothainnox/UnityUWM/tree/enemies) : Ćwiczenia 9 - Wrogowie i A* Pathfinding
