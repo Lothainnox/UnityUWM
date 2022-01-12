@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Gem
+  - Background
+  - Gem_5
+  - tmpRetries
+  - tmpScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Floor
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - GUI
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2107359005
+    locked: 0
+  - name: Floor
+    uniqueID: 4437383
+    locked: 0
+  - name: Player
+    uniqueID: 3461876177
+    locked: 0
+  - name: Foreground Floor
+    uniqueID: 1835407431
+    locked: 0
+  - name: Foreground
+    uniqueID: 1295870917
+    locked: 0
+  - name: GUI
+    uniqueID: 662677933
+    locked: 0
