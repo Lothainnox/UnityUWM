@@ -13,11 +13,11 @@
 
 ## Opis Gry
 
-Projekt zainspirowany był grą Geometry Dash.
-Celem mojej gry jest przejście postacią do końca poziomu osiągając jak największy wynik w jak najmniejszej ilości prób.
-Postać porusza się w prawo ze stałą prędkością, a ruchami jakie może wykonać gracz są skok z podłoża i skok w powietrzu.
+Projekt zainspirowany był grą Geometry Dash.  
+Celem mojej gry jest przejście postacią do końca poziomu osiągając jak największy wynik w jak najmniejszej ilości prób.  
+Postać porusza się w prawo ze stałą prędkością, a ruchami jakie może wykonać gracz są skok z podłoża i skok w powietrzu.  
 Na mapie zostały umieszczone kolce, z którymi kontakt powoduje śmierć postaci, rozpoczęcie poziomu od nowa oraz zwiększenie ilości powtórzeń.
-Spadek z mapy ma takie same konsekwencje co dotknięcie kolców.
+Spadek z mapy ma takie same konsekwencje co dotknięcie kolców.  
 Na mapie generowane są również kryształy w dwóch kolorach, które zwiększają wynik gracza (kryształ zielony o 1 punkt, pomarańczowy o 5 punktów).
 
 # Wykorzystane assety
@@ -29,9 +29,9 @@ Na mapie generowane są również kryształy w dwóch kolorach, które zwiększa
 [Free Game Items](https://assetstore.unity.com/packages/2d/environments/free-game-items-131764)
 
 # Dźwięk podczas rozgrywki
-[Fluffing a Duck by Kevin MacLeod](https://www.chosic.com/download-audio/27248/)
-Fluffing a Duck Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/
-Music promoted by https://www.chosic.com/free-music/all/
+[Fluffing a Duck by Kevin MacLeod](https://www.chosic.com/download-audio/27248/)  
+Fluffing a Duck Kevin MacLeod (incompetech.com)  
+Licensed under Creative Commons: By Attribution 3.0 License  
+http://creativecommons.org/licenses/by/3.0/  
+Music promoted by https://www.chosic.com/free-music/all/  
 
