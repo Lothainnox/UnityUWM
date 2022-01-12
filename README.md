@@ -11,7 +11,7 @@
 * [C09 2D Game Elements - Enemies](https://github.com/Lothainnox/UnityUWM/tree/enemies) : Ćwiczenia 9 - Wrogowie i A* Pathfinding
 * [C10 Shader Graph](https://github.com/Lothainnox/UnityUWM/tree/shader) : Ćwiczenia 10 - Tutorial Shader Graph
 
-## Opis Gry
+# Opis Gry
 
 Projekt zainspirowany był grą Geometry Dash.  
 Celem mojej gry jest przejście postacią do końca poziomu osiągając jak największy wynik w jak najmniejszej ilości prób.  
@@ -20,7 +20,7 @@ Na mapie zostały umieszczone kolce, z którymi kontakt powoduje śmierć postac
 Spadek z mapy ma takie same konsekwencje co dotknięcie kolców.  
 Na mapie generowane są również kryształy w dwóch kolorach, które zwiększają wynik gracza (kryształ zielony o 1 punkt, pomarańczowy o 5 punktów).
 
-# Wykorzystane assety
+## Wykorzystane assety
 
 * Platformy, postać, dekoracje oraz tło
 [Zynmo Adventures](https://assetstore.unity.com/packages/2d/textures-materials/zymmo-s-adventure-art-pack-93815)
@@ -28,7 +28,7 @@ Na mapie generowane są również kryształy w dwóch kolorach, które zwiększa
 * Kryształy
 [Free Game Items](https://assetstore.unity.com/packages/2d/environments/free-game-items-131764)
 
-# Dźwięk podczas rozgrywki
+## Dźwięk podczas rozgrywki
 [Fluffing a Duck by Kevin MacLeod](https://www.chosic.com/download-audio/27248/)  
 Fluffing a Duck Kevin MacLeod (incompetech.com)  
 Licensed under Creative Commons: By Attribution 3.0 License  
